@@ -27,5 +27,8 @@
   },
   "peerDependencies": {
     "typescript": "^7"
+  },
+  "dependencies": {
+    "gunshi": "^0.37.3"
   }
 }
