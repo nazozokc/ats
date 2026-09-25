@@ -1,0 +1,14 @@
+{
+  "name": "ats",
+  "type": "module",
+  "workspaces": [
+    "docs/*",
+    "apps/*"
+  ],
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^7"
+  }
+}
