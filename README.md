@@ -1,2 +1,1 @@
-# ats
-agent task scheduler cli
+./apps/ats/README.md
