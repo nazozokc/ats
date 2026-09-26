@@ -1,1 +1,1 @@
-./apps/ats/README.md
+apps/atr/README.md
