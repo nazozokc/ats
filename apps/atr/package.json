@@ -1,5 +1,5 @@
 {
-  "name": "ats",
+  "name": "atr",
   "module": "src/index.ts",
   "type": "module",
   "version": "0.0.1",
@@ -7,7 +7,7 @@
   "license": "MIT",
   "author": "nazozokc",
   "bin": {
-    "ats": "./dist/index.mjs"
+    "atr": "./dist/index.mjs"
   },
   "scripts": {
     "build": "bunx tsdown"
